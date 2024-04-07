@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    width: 100%;
+    background-color: rgb(73, 73, 73);
+    color: rgb(199, 199, 199);
+}
+header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Introduction Section */
+.introduction_section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 3px solid black;
+}
+
+/* Exploration Section */
+.exploration_section {
+    margin: 0 1.2em;
+}
+.exploration_files {
+    display: flex;
+    padding: 1.2em;
+    width: 100%;
+}
+.exploration {
+    width: 20%;
+    margin: 1.2em;
+}
