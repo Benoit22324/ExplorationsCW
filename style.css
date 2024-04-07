@@ -11,6 +11,10 @@ header {
     display: flex;
     align-items: center;
     gap: 10px;
+    margin: 1.2em;
+}
+header img {
+    width: 150px;
 }
 
 /* Introduction Section */
@@ -27,6 +31,8 @@ header {
 }
 .exploration_files {
     display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
     padding: 1.2em;
     width: 100%;
 }
