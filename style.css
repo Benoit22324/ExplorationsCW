@@ -40,3 +40,14 @@ header img {
     width: 20%;
     margin: 1.2em;
 }
+
+/* Responsive */
+/* Mobile */
+@media (max-width: 950px) {
+    .introduction_section p {
+        margin: 1em 0.5em;
+    }
+    .exploration {
+        width: 100%
+    }
+}
