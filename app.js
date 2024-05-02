@@ -98,8 +98,11 @@ let lists = [
     {date: '26/04/2024', logs: [
         {title: 'Exploration n°73', url: 'ExplorationsFiles/explo73.webm', type: 'video/webm', pov: 'Eblox, Benoit'},
         {title: 'Exploration n°74', url: 'ExplorationsFiles/explo74.webm', type: 'video/webm', pov: 'Hakon'},
-    ]}
-]
+    ]},
+    {date: '02/05/2024', logs: [
+        {title: 'Exploration n°75', url: 'ExplorationsFiles/explo75.webm', type: 'video/webm', pov: 'Benoit'},
+    ]},
+];
 
 for (let list of lists) {
     let logs = '';
