@@ -120,6 +120,13 @@ let lists = [
         {title: 'Exploration n°88', url: 'ExplorationsFiles/explo88.webm', type: 'video/webm', pov: 'Eblox'},
         {title: 'Exploration n°89', url: 'ExplorationsFiles/explo89.webm', type: 'video/webm', pov: 'Darsaan'},
     ]},
+    {date: '07/05/2024', logs: [
+        {title: 'Exploration n°90', url: 'ExplorationsFiles/explo90.webm', type: 'video/webm', pov: 'Darsaan, Eblox'},
+        {title: 'Exploration n°91', url: 'ExplorationsFiles/explo91.webm', type: 'video/webm', pov: 'Eblox'},
+        {title: 'Exploration n°92', url: 'ExplorationsFiles/explo92.webm', type: 'video/webm', pov: 'Eblox'},
+        {title: 'Exploration n°93', url: 'ExplorationsFiles/explo93.webm', type: 'video/webm', pov: 'Eblox'},
+        {title: 'Exploration n°94', url: 'ExplorationsFiles/explo94.webm', type: 'video/webm', pov: 'Benoit, Eblox'},
+    ]}
 ];
 
 for (let list of lists) {
