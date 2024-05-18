@@ -126,6 +126,10 @@ let lists = [
         {title: 'Exploration n°92', url: 'ExplorationsFiles/explo92.webm', type: 'video/webm', pov: 'Eblox'},
         {title: 'Exploration n°93', url: 'ExplorationsFiles/explo93.webm', type: 'video/webm', pov: 'Eblox'},
         {title: 'Exploration n°94', url: 'ExplorationsFiles/explo94.webm', type: 'video/webm', pov: 'Benoit, Eblox'},
+    ]},
+    {date: '18/05/2024', logs: [
+        {title: 'Exploration n°95', url: 'ExplorationsFiles/explo95.webm', type: 'video/webm', pov: 'Eblox'},
+        {title: 'Exploration n°96', url: 'ExplorationsFiles/explo96.webm', type: 'video/webm', pov: 'Eblox'},
     ]}
 ];
 
