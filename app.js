@@ -160,6 +160,13 @@ let lists = [
                 {title: 'Exploration n°108', url: 'ExplorationsFiles/explo108.webm', type: 'video/webm', pov: 'Benoit'},
                 {title: 'Exploration n°109', url: 'ExplorationsFiles/explo109.webm', type: 'video/webm', pov: 'Benoit, Eblox'},
             ]},
+            {date: '14', logs: [
+                {title: 'Exploration n°110', url: 'ExplorationsFiles/explo110.webm', type: 'video/webm', pov: 'Darsaan'},
+                {title: 'Exploration n°111', url: 'ExplorationsFiles/explo111.webm', type: 'video/webm', pov: 'AX'},
+                {title: 'Exploration n°112', url: 'ExplorationsFiles/explo112.webm', type: 'video/webm', pov: 'Eblox'},
+                {title: 'Exploration n°113', url: 'ExplorationsFiles/explo113.webm', type: 'video/webm', pov: 'AX, Eblox'},
+                {title: 'Exploration n°114', url: 'ExplorationsFiles/explo114.webm', type: 'video/webm', pov: 'AX, Eblox'},
+            ]}
         ]
     },
 ];
