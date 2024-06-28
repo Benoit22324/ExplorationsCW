@@ -166,7 +166,16 @@ let lists = [
                 {title: 'Exploration n°112', url: 'ExplorationsFiles/explo112.webm', type: 'video/webm', pov: 'Eblox'},
                 {title: 'Exploration n°113', url: 'ExplorationsFiles/explo113.webm', type: 'video/webm', pov: 'AX, Eblox'},
                 {title: 'Exploration n°114', url: 'ExplorationsFiles/explo114.webm', type: 'video/webm', pov: 'AX, Eblox'},
-            ]}
+            ]},
+            {date: '28', logs: [
+                {title: 'Exploration n°115', url: 'ExplorationsFiles/explo115.webm', type: 'video/webm', pov: 'Eblox'},
+                {title: 'Exploration n°116', url: 'ExplorationsFiles/explo116.webm', type: 'video/webm', pov: 'Benoit'},
+                {title: 'Exploration n°117', url: 'ExplorationsFiles/explo117.webm', type: 'video/webm', pov: 'Eblox'},
+                {title: 'Exploration n°118', url: 'ExplorationsFiles/explo118.webm', type: 'video/webm', pov: 'Eblox'},
+                {title: 'Exploration n°119', url: 'ExplorationsFiles/explo119.webm', type: 'video/webm', pov: 'Eblox'},
+                {title: 'Exploration n°120', url: 'ExplorationsFiles/explo120.webm', type: 'video/webm', pov: 'Darsaan, Eblox'},
+                {title: 'Exploration n°121', url: 'ExplorationsFiles/explo121.webm', type: 'video/webm', pov: 'Eblox'},
+            ]},
         ]
     },
 ];
