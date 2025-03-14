@@ -178,6 +178,18 @@ let lists = [
             ]},
         ]
     },
+    {
+        month: '03', years: '2025', files: [
+            {
+                date: '14', logs: [
+                    {title: 'Exploration n°122', url: 'ExplorationsFiles/explo122.webm', type: 'video/webm', pov: 'Eblox'},
+                    {title: 'Exploration n°123', url: 'ExplorationsFiles/explo123.webm', type: 'video/webm', pov: 'Darsaan'},
+                    {title: 'Exploration n°124', url: 'ExplorationsFiles/explo124.webm', type: 'video/webm', pov: 'Eblox'},
+                    {title: 'Exploration n°125', url: 'ExplorationsFiles/explo125.webm', type: 'video/webm', pov: 'Darsaan, Bazoutarde, Benoit'},
+                ]
+            }
+        ]
+    }
 ];
 
 // Show all the monthly logs in the years
