@@ -189,6 +189,32 @@ let lists = [
                 ]
             }
         ]
+    },
+    {
+        month: '12', years: '2025', files: [
+            {
+                date: '27', logs: [
+                    {title: 'Exploration n°126', url: 'ExplorationsFiles/explo126_Benoit.webm', type: 'video/webm', pov: 'Benoit'},
+                    {title: 'Exploration n°126', url: 'ExplorationsFiles/explo126_Darsaan.webm', type: 'video/webm', pov: 'Darsaan'},
+                    {title: 'Exploration n°126', url: 'ExplorationsFiles/explo126_Gwen.webm', type: 'video/webm', pov: 'Gwen'},
+                    {title: 'Exploration n°126', url: 'ExplorationsFiles/explo126_Toto.webm', type: 'video/webm', pov: 'Eblox'},
+                    {title: 'Exploration n°127', url: 'ExplorationsFiles/explo127_Benoit.webm', type: 'video/webm', pov: 'Benoit'},
+                    {title: 'Exploration n°127', url: 'ExplorationsFiles/explo127_Darsaan.webm', type: 'video/webm', pov: 'Darsaan'},
+                    {title: 'Exploration n°127', url: 'ExplorationsFiles/explo127_Gwen.webm', type: 'video/webm', pov: 'Gwen'},
+                    {title: 'Exploration n°127', url: 'ExplorationsFiles/explo127_Toto.webm', type: 'video/webm', pov: 'Eblox'},
+
+                    {title: 'Exploration n°128', url: 'ExplorationsFiles/explo128_Benoit.webm', type: 'video/webm', pov: 'Benoit'},
+                    {title: 'Exploration n°128', url: 'ExplorationsFiles/explo128_Darsaan.webm', type: 'video/webm', pov: 'Darsaan'},
+                    {title: 'Exploration n°128', url: 'ExplorationsFiles/explo128_Gwen.webm', type: 'video/webm', pov: 'Gwen'},
+                    {title: 'Exploration n°128', url: 'ExplorationsFiles/explo128_Toto.webm', type: 'video/webm', pov: 'Eblox'},
+
+                    {title: 'Exploration n°129', url: 'ExplorationsFiles/explo129_Benoit.webm', type: 'video/webm', pov: 'Benoit'},
+                    {title: 'Exploration n°129', url: 'ExplorationsFiles/explo129_Darsaan.webm', type: 'video/webm', pov: 'Darsaan'},
+                    {title: 'Exploration n°129', url: 'ExplorationsFiles/explo129_Gwen.webm', type: 'video/webm', pov: 'Gwen'},
+                    {title: 'Exploration n°129', url: 'ExplorationsFiles/explo129_Toto.webm', type: 'video/webm', pov: 'Eblox'},
+                ]
+            }
+        ]
     }
 ];
 
